@@ -1,0 +1,96 @@
+/* semi bold */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-SemiBold.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+/* medium */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-Medium.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+/* light */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-Light.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+/* extra light */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 200;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-ExtraLight.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+/* extra bold */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-ExtraBold.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+/* bold */
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-Bold.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+	src: url('/fonts/Manrope/Manrope-Regular.ttf') format('truetype');
+	unicode-range: U+0000-00FF, U+0100-02FF, U+0370-03FF, U+0400-04FF;
+}
+
+html {
+	height: 100%;
+	/* overflow-x: hidden; */
+}
+
+body {
+	box-sizing: border-box;
+	place-items: center;
+	height: 100%;
+	background-color: #f4f6f8;
+
+	font-family: Manrope, 'system-ui', sans-serif;
+	font-synthesis: none;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+#root {
+	height: 100%;
+	width: 100%;
+}

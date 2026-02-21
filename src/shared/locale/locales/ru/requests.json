@@ -1,0 +1,26 @@
+{
+   "accountNumber": "Счет",
+   "selectAccountNumber": "Выберите счет",
+   "fileName": "Наименование \n файла",
+   "createdAt": "Дата \n создания",
+   "processedAt": "Дата \n обработки",
+   "to-archive": "Добавить в архив",
+   "to-history": "Вернуть в историю",
+   "historyPending": "Зачисления возвращаются в историю...",
+   "historySuccess": "Зачисления возвращены в историю!",
+   "historyConfirm": "Вы действительно хотите вернуть в историю зачисления?",
+   "archiveSuccess": "Зачисления успешно архивированы!",
+   "archivePending": "Зачисления архивируются...",
+   "archiveConfirm": "Вы действительно хотите архивировать зачисления?",
+   "approveConfirm": "Вы действительно хотите {{action}} начисление ?",
+   "approveSuccess": "Заявка успешно подтверждена!",
+   "rejectSuccess": "Заявка успешно отклонена!",
+
+   "transitCard": "Транзитный счет",
+   "employeeCount": "Количество \n сотрудников",
+   "requestDetailTitle": "Проведение заработной платы",
+   "documentStatus": "Статус документа",
+   "documentAccount": "Счет документа",
+   "accrueAfter": "Подтверждение через: {{countDown}}",
+   "accrueButtonPopup": "Нажмите чтобы досрочно подвердить заявку"
+}

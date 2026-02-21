@@ -1,0 +1,26 @@
+{
+   "accountNumber": "Эсеп",
+   "selectAccountNumber": "Эсепти тандаңыз",
+   "fileName": "\n Файлдын аталышы",
+   "createdAt": "Түзүлгөн дата",
+   "processedAt": "Иштеп чыгуу дата ",
+   "to-archive": "Архивге кошуу",
+   "to-history": "Тарыхка кайтуу",
+   "historyPending": "Чегерүү тарыхка кайтып келүүдө...",
+   "historySuccess": "Чегерүүлөр тарыхка кайтарылды!",
+   "historyConfirm": "Сиз чын эле чегерүүлөрдү тарыхка  кайтаргыңыз келеби?",
+   "archiveSuccess": "Чегерүүлөр ийгиликтүү архивделди!",
+   "archivePending": "Чегерүүлөр архивделүүдө...",
+   "archiveConfirm": "Чегерүүлөрдү чын эле архивдейсизби?",
+   "approveConfirm": "Чын эле {{action}} кошуп эсептелишин каалайсызбы келеби?",
+   "approveSuccess": "Билдирме ийгиликтүү тастыкталды!",
+   "rejectSuccess": "Билдирме ийгиликтүү четке кагылды!",
+
+   "transitCard": "Транзит эсеби",
+   "employeeCount": "\n Кызматкерлердин саны ",
+   "requestDetailTitle": "Эмгек акыны төлөө",
+   "documentStatus": "Документтин абалы",
+   "documentAccount": "Документ эсеби",
+   "accrueAfter": "{{countDown}} кийин тастыктоо",
+   "accrueButtonPopup": "билдирмени азыр тастыктоо үчүн басыңыз"
+}
