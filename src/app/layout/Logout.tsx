@@ -3,7 +3,7 @@ import MenuItem from '@mui/material/MenuItem'
 import { styled } from '@mui/material/styles'
 import Typography from '@mui/material/Typography'
 import { useTranslation } from 'react-i18next'
-import { useDispatch, useSelector } from 'react-redux'
+import { useDispatch } from 'react-redux'
 
 import { invalidateAccessToken } from '#shared/api/invalidateTokenEvent'
 import OpenMenu from '#shared/assets/open-menu.svg?react'
