@@ -49,7 +49,7 @@ export const SubmitButton = styled(Button)(({ theme }) => ({
    },
 }));
 
-export const StyledFormWrap = styled(Box)(({ theme }) => ({
+export const StyledFormWrap = styled(Box)(() => ({
    width: "100%",
    maxWidth: "420px",
    borderRadius: "16px",
